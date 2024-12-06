@@ -155,7 +155,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
    - Push the file to your **GitHub repository**:
      ```bash
-     git remote add origin https://github.com/your-username/your-repository.git
+     git remote add origin https://github.com/freeda2004/digit-recognition-from-sppech.git
      git push -u origin master
      ```
 
